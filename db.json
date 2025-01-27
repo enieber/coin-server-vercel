@@ -4,16 +4,16 @@
       "nome": "Dirham dos Emirados Árabes ",
       "simbolo": "د.إ",
       "codigo": 767,
-      "sigla": "AE3"
+      "id": "AE3"
     },
     {
-      "sigla": "ABC",
+      "id": "ABC",
       "nome": "asdfasdfa sdfasdfa",
       "simbolo": "$*",
       "codigo": 123
     },
     {
-      "sigla": "ASD",
+      "id": "ASD",
       "nome": "ASDfa dfsa sd ",
       "simbolo": "!@# asdfa",
       "codigo": 132
