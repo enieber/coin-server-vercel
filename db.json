@@ -1,9 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "coins": [
+    {
+      "sigla": "AE3",
+      "nome": "Dirham dos Emirados Árabes Unidos",
+      "simbolo": "د.إ",
+      "codigo": 7677
+    },
+    {
+      "id": "e836",
+      "sigla": "ABC",
+      "nome": "asdfasdfa sdfasdfa",
+      "simbolo": "$*",
+      "codigo": 123
+    }
+  ]
 }
