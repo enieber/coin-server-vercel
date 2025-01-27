@@ -4,14 +4,16 @@
       "sigla": "AE3",
       "nome": "Dirham dos Emirados Árabes Unidos",
       "simbolo": "د.إ",
-      "codigo": 7677
+      "codigo": 7677,
+      "id": "owczoxl"
     },
     {
       "id": "e836",
       "sigla": "ABC",
       "nome": "asdfasdfa sdfasdfa",
       "simbolo": "$*",
-      "codigo": 123
+      "codigo": 123,
+      "id": "lx7g2ho"
     }
   ]
 }
